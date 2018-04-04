@@ -7,6 +7,4 @@ correct 1.
 Creating a new branch is quick and simple.
 A new test.
 A new test for bug & stash.
-
-
-
+I’m testing for the branch to deal with bug, and something just went wrong.
