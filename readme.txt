@@ -6,6 +6,7 @@ Something happened.
 correct 1.
 Creating a new branch is quick and simple.
 A new test.
+A new test for bug & stash.
 
 
 
